@@ -1,2 +1,2 @@
 # basic_bank
-small banck app in console
+small bank app in console
